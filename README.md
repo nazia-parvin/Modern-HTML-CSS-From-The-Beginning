@@ -1,4 +1,4 @@
-##Modern HTML CSS From The Beginning Course 
+## Modern HTML CSS From The Beginning Course 
 This repository contains multiple projects that dmonstrates various concepts of modern responsive websites using HTML, CSS and some JavaScript, learnt throughout the course.
 
 
