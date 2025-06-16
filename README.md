@@ -42,5 +42,10 @@ This repository contains multiple projects that demonstrate various concepts of 
 ### 📁 [Project 8: Freelance Form Project](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/freelance-form-challenge)    
 [👁️ Preview](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/freelance-form-challenge/preview.png)
 
+---
+
+### 📁 [Project 9: Felxbox Layout Challenge](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/flexbox-layout-challeng)    
+[👁️ Preview](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/flexbox-layout-challenge/Screenshot%20.png)
+
 
 
