@@ -22,5 +22,11 @@ This repository contains multiple projects that demonstrate various concepts of 
 ### 📁 [Project 4: Bono App Project Website](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/bono-app-challenge-project-website)  
 🔗 [Live Project Link](https://modern-html-css-from-the-beginning-seven.vercel.app/)
 
+---
+
+### 📁 [Project 5: Shoe Cards Project](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/shoe-cards-project)  
+👁️ Preview  
+(https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/shoe-cards-project/Screenshot%202025-06-17%20at%2012.32.01%20AM.png)
+
 
 
