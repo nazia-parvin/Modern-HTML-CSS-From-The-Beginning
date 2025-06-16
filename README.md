@@ -6,5 +6,9 @@ This repository contains multiple projects that dmonstrates various concepts of 
 
 - [Project 1: Tutor Project Website]
   Live Project Link: (https://tutor-website-project-two.vercel.app/)
+  GitHub Repo: (https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/tutor-website-project)
+- [Project 2: Leno Project Website]
+  Live Project Link: (https://leno-website-project.vercel.app/)
+  GitHub Repo: (https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/leno-website-project)
 
 
