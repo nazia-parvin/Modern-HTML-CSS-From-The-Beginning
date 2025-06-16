@@ -24,9 +24,8 @@ This repository contains multiple projects that demonstrate various concepts of 
 
 ---
 
-### 📁 [Project 5: Shoe Cards Project](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/shoe-cards-project)  
-👁️ Preview  
-(https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/shoe-cards-project/Screenshot%202025-06-17%20at%2012.32.01%20AM.png)
+### 📁 [Project 5: Shoe Cards Project](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/shoe-cards-project)    
+[👁️ Preview](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/shoe-cards-project/Screenshot%202025-06-17%20at%2012.32.01%20AM.png)
 
 
 
