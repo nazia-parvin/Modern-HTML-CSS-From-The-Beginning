@@ -37,5 +37,10 @@ This repository contains multiple projects that demonstrate various concepts of 
 ### 📁 [Project 7: Pricing Grid Project](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/pricing-grid-project)    
 [👁️ Preview](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/pricing-grid-project/preview.png)
 
+---
+
+### 📁 [Project 8: Freelance Form Project](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/freelance-form-challenge)    
+[👁️ Preview](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/freelance-form-challenge/preview.png)
+
 
 
