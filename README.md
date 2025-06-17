@@ -2,8 +2,8 @@
 
 This repository contains multiple projects that demonstrate various concepts of modern responsive websites using HTML, CSS and some JavaScript, learnt throughout the course.
 
-## Table of Contents
-##############################
+### Table of Contents
+
 
 ### 📁 [Project 1: Tutor Project Website](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/tutor-website-project)  
 🔗 [Live Project Link](https://tutor-website-project-two.vercel.app/)
