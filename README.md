@@ -30,22 +30,22 @@ This repository contains multiple projects that demonstrate various concepts of 
 ---
 
 ### 📁 [Project 6: Shoe Cards Project](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/shoe-cards-project)    
-[👁️ Preview](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/shoe-cards-project/Screenshot%202025-06-17%20at%2012.32.01%20AM.png)
+[ Preview](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/shoe-cards-project/Screenshot%202025-06-17%20at%2012.32.01%20AM.png)
 
 ---
 
 ### 📁 [Project 7: Pricing Grid Project](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/pricing-grid-project)    
-[👁️ Preview](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/pricing-grid-project/preview.png)
+[ Preview](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/pricing-grid-project/preview.png)
 
 ---
 
 ### 📁 [Project 8: Freelance Form Project](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/freelance-form-challenge)    
-[👁️ Preview](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/freelance-form-challenge/preview.png)
+[ Preview](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/freelance-form-challenge/preview.png)
 
 ---
 
 ### 📁 [Project 9: Felxbox Layout Challenge](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/flexbox-layout-challeng)    
-[👁️ Preview](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/flexbox-layout-challenge/Screenshot%20.png)
+[ Preview](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/blob/main/flexbox-layout-challenge/Screenshot%20.png)
 
 
 
