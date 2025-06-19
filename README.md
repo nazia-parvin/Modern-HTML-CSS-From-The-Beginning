@@ -6,30 +6,33 @@ This repository contains multiple projects that demonstrate various concepts of 
 
 ## 📚 Table of Contents
 
-- [Project 1: BEM Website – Leno][Project Screenshot](https://github.com/user-attachments/assets/0407fbe2-3ed8-4d1d-9d1f-a4ee9de12b84/yourimage.png?raw=true)
-
-- [Project 2: Tutor Website](#project-2-tutor-website)
-- [Project 3: Lumina Creative](#project-3-lumina-creative)
-- [Project 4: Bono Landing Page](#project-4-bono-landing-page)
-- [License](#license)
-
----
-
-## 🚀 Project 1: BEM Website – Leno
-
-![Project 1 Screenshot](your-image-link-here)
-
-- 🔗 **Live URL:** [View Project 1 Live](your-live-link)
-- 📁 **GitHub Repo:** [Project 1 Folder](your-folder-link)
+- ### [Project 1: Tutor Project Website](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/tutor-website-project)  
+- ### [Project 2: Leno Project Website](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/leno-website-project)  
+- ### [Project 3: Lumina Creative Project Website](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/lumina_creative_project)  
+- ### [Project 4: Bono App Project Website](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/bono-app-challenge-project-website)  
+- ### [Project 5: Presentation Website](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/presentation-website)  
+- ### [Project 6: Shoe Cards Project](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/shoe-cards-project)
+- ### [Project 7: Pricing Grid Project](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/pricing-grid-project)
+- ### [Project 8: Freelance Form Project](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/freelance-form-challenge)
+- ### [Project 9: Felxbox Layout Challenge](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/flexbox-layout-challeng)  
 
 ---
 
-## 📘 Project 2: Tutor Website
+## 📘 Project 1: Tutor Project Website
 
-![Project 2 Screenshot](your-image-link-here)
+![Project 1 Screenshot](https://github.com/user-attachments/assets/d80775a7-cb3e-43a1-8af0-b2ea2af232cc)
 
-- 🔗 **Live URL:** [View Project 2 Live](your-live-link)
-- 📁 **GitHub Repo:** [Project 2 Folder](your-folder-link)
+- 🔗 **Live URL:** [Live Project Link](https://tutor-website-project-two.vercel.app/)
+- 📁 **GitHub Repo:** [Project 1 Repository](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/tutor-website-project)
+
+---
+
+##  Project 2: Leno Project Website(BEM)
+
+![Project 2 Screenshot](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/leno-website-project)
+
+- 🔗 **Live URL:** [Live Project Link](https://leno-website-project.vercel.app/)
+- 📁 **GitHub Repo:** [Project 2 Repository](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/leno-website-project)
 
 ---
 
