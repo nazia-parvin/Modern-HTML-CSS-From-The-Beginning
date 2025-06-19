@@ -42,7 +42,7 @@ This repository contains multiple projects that demonstrate various concepts of 
 ![Project 3 Screenshot](https://github.com/user-attachments/assets/56f4d05c-9ce8-4cab-9065-834280437d03)
 
 - 🔗 **Live URL:** [Live Project Link](https://thriving-pegasus-5e3505.netlify.app/)
-- 📁 **GitHub Repo:** [Projec 3 Repository](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/lumina_creative_project)
+- 📁 **GitHub Repo:** [Project 3 Repository](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/lumina_creative_project)
 
 ---
 
@@ -95,7 +95,7 @@ This repository contains multiple projects that demonstrate various concepts of 
 ![Project 9 Screenshot](https://github.com/user-attachments/assets/664844ae-7681-4204-bb5e-be1a0eb74bff)
 
 - 🖥️ **How to View:** Download the repo and open `index.html`
-- 📁 **GitHub Repo:** [Project 9 Repository](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/flexbox-layout-challeng)
+- 📁 **GitHub Repo:** [Project 9 Repository](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/flexbox-layout-challenge)
 
 ---
 
