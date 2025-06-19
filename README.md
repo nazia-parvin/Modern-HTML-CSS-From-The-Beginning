@@ -20,7 +20,7 @@ This repository contains multiple projects that demonstrate various concepts of 
 
 ## 📘 Project 1: Tutor Project Website
 
-![Project 1 Screenshot](https://github.com/user-attachments/assets/d80775a7-cb3e-43a1-8af0-b2ea2af232cc)
+![Project 1 Screenshot](https://github.com/user-attachments/assets//d80775a7-cb3e-43a1-8af0-b2ea2af232cc)
 
 - 🔗 **Live URL:** [Live Project Link](https://tutor-website-project-two.vercel.app/)
 - 📁 **GitHub Repo:** [Project 1 Repository](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/tutor-website-project)
@@ -29,7 +29,7 @@ This repository contains multiple projects that demonstrate various concepts of 
 
 ##  Project 2: Leno Project Website(BEM)
 
-![Project 2 Screenshot](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/leno-website-project)
+![Project 2 Screenshot](https://github.com/user-attachments/assets/2d344293-e4e7-41fd-a6f8-8910c2d1c990)
 
 - 🔗 **Live URL:** [Live Project Link](https://leno-website-project.vercel.app/)
 - 📁 **GitHub Repo:** [Project 2 Repository](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/leno-website-project)
@@ -38,19 +38,19 @@ This repository contains multiple projects that demonstrate various concepts of 
 
 ## 🎨 Project 3: Lumina Creative
 
-![Project 3 Screenshot](your-image-link-here)
+![Project 3 Screenshot](https://github.com/user-attachments/assets/56f4d05c-9ce8-4cab-9065-834280437d03)
 
-- 🔗 **Live URL:** [View Project 3 Live](your-live-link)
-- 📁 **GitHub Repo:** [Project 3 Folder](your-folder-link)
+- 🔗 **Live URL:** [Live Project Link](https://thriving-pegasus-5e3505.netlify.app/)
+- 📁 **GitHub Repo:** [Projec 3 Repository](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/lumina_creative_project)
 
 ---
 
-## 🖥️ Project 4: Bono Landing Page
+## 🖥️ Project 4: Bono App Project Website
 
 ![Project 4 Screenshot](your-image-link-here)
 
-- 🔗 **Live URL:** [View Project 4 Live](your-live-link)
-- 📁 **GitHub Repo:** [Project 4 Folder](your-folder-link)
+- 🔗 **Live URL:** [Live Project Link](https://modern-html-css-from-the-beginning-seven.vercel.app/)
+- 📁 **GitHub Repo:** [Project 4 Repository](https://github.com/nazia-parvin/Modern-HTML-CSS-From-The-Beginning/tree/main/bono-app-challenge-project-website)
 
 ---
 
